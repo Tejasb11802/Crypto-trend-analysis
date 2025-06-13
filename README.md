@@ -34,22 +34,7 @@ Features:
 - `predictions15.ipynb`: Cryptocurrency analysis notebook
 - `sentiment15.ipynb`: Sentiment analysis notebook
 
-## How to Run
-
-1. Clone the repository:
-   git clone https://github.com/yourusername/crypto-sentiment-apps.git
-
-2. Install required packages:
-   pip install -r requirements.txt
-
-3. Run the notebooks or Streamlit app:
-   - Open `predictions15.ipynb` in Jupyter
-   - Run `streamlit run sentiment15.ipynb` for the sentiment app
 
 ## Author
 
 Tejas Prashant Bhanushali
-
-## License
-
-This project is licensed under the MIT License.
